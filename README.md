@@ -16,3 +16,4 @@ Modify the default router name to a specific identifier (`r1`).
 Router> enable
 Router# configure terminal
 Router(config)# hostname r1
+<img width="923" height="140" alt="Network" src="https://github.com/user-attachments/assets/e8901bfb-3023-467e-8e07-e15b6dfb4c8c" />
