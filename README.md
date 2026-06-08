@@ -18,5 +18,31 @@ Here is the step-by-step configuration executed on the device:
 Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
-r1#
-%SYS-5-CONFIG_I: Configured from console by console
+r1>en
+r1>enable
+Password: 
+r1#sh
+r1#show ru
+r1#show running-config
+Building configuration...
+
+Current configuration : 715 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname r1
+!
+!
+!
+enable password ccna
+!
+!
+!
+!
+!
+ip cef
+no ipv6 cef
+!
