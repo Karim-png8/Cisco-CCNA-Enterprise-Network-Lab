@@ -19,5 +19,3 @@ Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
 
-
-<img width="923" height="140" alt="Network" src="https://github.com/user-attachments/assets/6a04c618-0da9-4ba8-a432-1a05d861cfa3" />
