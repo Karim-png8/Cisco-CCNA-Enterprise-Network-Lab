@@ -18,5 +18,5 @@ Here is the step-by-step configuration executed on the device:
 Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
-
-
+r1#
+%SYS-5-CONFIG_I: Configured from console by console
