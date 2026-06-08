@@ -15,3 +15,5 @@ Modify the default router name to a specific identifier (`r1`).
 Router> enable
 Router# configure terminal
 Router(config)# hostname r1
+r1(config)# enable password ccna
+r1(config)# exit
