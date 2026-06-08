@@ -18,5 +18,5 @@ Here is the step-by-step configuration executed on the device:
 Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
-r1#
-%SYS-5-CONFIG_I: Configured from console by console<img width="923" height="140" alt="Network" src="https://github.com/user-attachments/assets/8496846e-a213-4c7c-bf0e-989deca83550" />
+<img width="923" height="140" alt="Network" src="https://github.com/user-attachments/assets/6cca5a59-897c-4396-b960-ebb6415f8713" />
+
