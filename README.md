@@ -22,3 +22,8 @@ Router# configure terminal
 Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
+
+
+
+r1# configure terminal
+r1(config)# service password-encryption
