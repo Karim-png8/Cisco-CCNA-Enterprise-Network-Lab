@@ -15,7 +15,6 @@ The configuration was performed on a Cisco Router (R1) to establish hostname ide
 ## Configuration Steps
 
 ### Step 1: Change Hostname & Set Clear-Text Password
-Modify the default router name to a specific identifier (`r1`) and set an enable password.
 
 ```cisco
 Router> enable
@@ -23,5 +22,3 @@ Router# configure terminal
 Router(config)# hostname r1
 r1(config)# enable password ccna
 r1(config)# exit
-r1# configure terminal
-r1(config)# service password-encryption
